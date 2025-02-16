@@ -1,0 +1,182 @@
+*   [33mc3ff2c3[m On master: !!GitHub_Desktop<master>
+[31m|[m[32m\[m  
+[31m|[m * [33mfb7d211[m index on master: d6556a4 Update load command
+[31m|[m[31m/[m  
+* [33md6556a4[m Update load command
+* [33m29602a5[m Update package.json
+* [33m6bf576b[m Update package.json
+* [33mef59147[m Update package.json
+* [33m714839e[m Update GameState
+* [33mafbbd8f[m Update config.js
+* [33m274ec51[m Update removeGameResult.js
+* [33mc2eb566[m Update config.js
+* [33md003afd[m Update start command
+* [33m0be8fcf[m Update config
+* [33mc1c9f16[m Replace gameTextChannels with gameChannel
+* [33m0d29b1b[m Add gameTextChannel config property
+* [33m16dcfbb[m Remove abitility to have > 1 pending recruitments simultaneously
+* [33m46126ec[m Update game
+* [33mce1b46c[m Update config.js
+* [33md65b72e[m Update config.js
+* [33m1641ac3[m Update start.js
+* [33m9ca73bb[m Update config.js
+* [33m344a24b[m ЙТ
+* [33m934607b[m Update game
+* [33m445cb9c[m Update game
+* [33m9d3961d[m Fix superflous player nickname editing
+* [33m5f711d5[m Update bestMove command
+* [33m662c1ef[m Fix not displaying best move
+* [33m82b6da7[m Replace totalGameCount computation with GlobalStats query
+* [33md4be94c[m Remove computeTotalGameCount
+* [33mf4c6ae2[m Fix user rank calculation
+* [33m6a7bddf[m Update toplead
+* [33m8adb681[m Add default ids to one row models
+* [33mc24ada9[m Update config
+* [33m07ca1c7[m Fix load embed displaying game mode id instead of name
+* [33m8917ac9[m Fix infinite kill delay
+* [33m0c5cfcd[m Fix NaN in bestMoveScores
+* [33m0d9392c[m Update command parser settings
+* [33m9298104[m Update config.js
+* [33m2c08143[m Update config.js
+* [33md5bce40[m Update config.js
+* [33md1a1e23[m Update config.js
+* [33m6414d8d[m Update config.js
+* [33mcbe6c5d[m update
+* [33m6dc06cc[m Update best-move command
+* [33m6c30a7e[m Update game
+* [33m83140c3[m Fix save/removeGameResult
+* [33m2f6ff8e[m Fix computeGameResult
+*   [33mb29e1da[m Merge branch 'master' of https://github.com/Phil9424/inmafianew
+[33m|[m[34m\[m  
+[33m|[m * [33ma2ce186[m Update config.js
+[33m|[m *   [33mfeacdec[m Merge branch 'master' of https://github.com/Phil9424/inmafianew
+[33m|[m [35m|[m[36m\[m  
+[33m|[m * [36m|[m [33mbd12274[m Update config.js
+* [36m|[m [36m|[m [33mef5309e[m Fix unpause
+[36m|[m [36m|[m[36m/[m  
+[36m|[m[36m/[m[36m|[m   
+* [36m|[m [33m5ee0036[m Update config
+* [36m|[m [33mde31db6[m Update config
+* [36m|[m [33m0f81db5[m Update command handler
+* [36m|[m [33m82eb710[m Fix tour command
+* [36m|[m [33m808ff73[m Fix toutour command
+* [36m|[m [33m811a52c[m Fix toptour command
+* [36m|[m [33m43638e3[m Fix formatting
+* [36m|[m [33md6bd2cc[m Add toptour command
+* [36m|[m [33md3dc78e[m Add tour command
+* [36m|[m [33m17ffc55[m Implement tour game mode
+* [36m|[m [33mb04041a[m Update vote commands
+* [36m|[m [33md3156a9[m Make things bold again
+* [36m|[m [33md57c6d8[m Update score command
+* [36m|[m [33m06ce063[m Implement role order
+* [36m|[m [33mc194f24[m Update vote commands
+* [36m|[m [33mbbd8df9[m Update applyRatingRole
+* [36m|[m [33md1e2591[m Update score command
+* [36m|[m [33m72abcef[m Update config
+* [36m|[m [33mf0d99d4[m Fix applyRatingRoles
+* [36m|[m [33m0e1dd99[m Add applyRatingRoles
+* [36m|[m [33mae17897[m Add ratingUpdate event
+* [36m|[m [33me435254[m Update top command
+* [36m|[m [33m8986352[m Add calibrationGameCount to config
+* [36m|[m [33mc12c4af[m Update top command
+* [36m|[m [33m259d80b[m Update score command
+* [36m|[m [33m837376e[m Update score command
+* [36m|[m [33m42fb191[m Update top command
+* [36m|[m [33m97b1e58[m Update game
+* [36m|[m [33mf441e73[m Update saveLastGameResult
+* [36m|[m [33m3fdda33[m Fix removeGameResult
+* [36m|[m [33mf496472[m Update rollback command
+* [36m|[m [33mb6d44e8[m Fix EndgameState deserialization
+* [36m|[m [33m8dcaea6[m Fix GameResult.fromObject
+* [36m|[m [33m191bab0[m Rename User#shot0Count -> User#firstVictimCount
+* [36m|[m [33mf400292[m Add score command
+* [36m|[m [33m381851b[m Make things bold
+* [36m|[m [33m07909d2[m Fix save/removeGameResults
+* [36m|[m [33m24f84c6[m More best player vote fixing
+* [36m|[m [33me60153d[m Fix best player vote
+* [36m|[m [33mb02bce5[m Make best player optional
+* [36m|[m [33m6afe135[m Add best player vote
+* [36m|[m [33mabf34b5[m Update game
+* [36m|[m [33mb4e9348[m Update start command
+* [36m|[m [33m09b2cc6[m Add mode id
+* [36m|[m [33m8b19727[m Update start command
+* [36m|[m [33m04c76ab[m Implement fines/bonuses
+* [36m|[m [33m13092c3[m Fix GameState
+* [36m|[m [33m1c71b09[m Update EndgameState
+* [36m|[m [33m863b248[m Fix User model
+* [36m|[m [33mc82c8bc[m Update start command
+* [36m|[m [33m2f27ad5[m Update modes
+* [36m|[m [33m7ed06fd[m Update start command
+* [36m|[m [33m374aa84[m Update game
+* [36m|[m [33mb85e745[m Update modes
+* [36m|[m [33mfa4fbd2[m Update modes
+* [36m|[m [33mac7c784[m Update User model
+* [36m|[m [33m3a14071[m Implement rating computation algorithm
+* [36m|[m [33m0601efa[m Update removeGameResult
+* [36m|[m [33m1948021[m Update GameResult
+* [36m|[m [33m0b1b9ce[m Update User model
+* [36m|[m [33m0ad4ec6[m Update saveGameResult
+* [36m|[m [33m75de466[m Update EndgameState
+* [36m|[m [33m8921898[m Update GameResult
+* [36m|[m [33m9ba7657[m Update computeGameResult
+* [36m|[m [33m5e0287a[m Update GameResult
+* [36m|[m [33mcda77d8[m Fix players still count as killed/hanged when resurrected
+* [36m|[m [33m0ad1597[m Implement bestMove
+* [36m|[m [33mda299ab[m Update GameState
+* [36m|[m [33m9d806c7[m Update saveGameResult
+* [36m|[m [33m819ef3a[m Update User model
+* [36m|[m [33m12737d8[m Update GameResult
+* [36m|[m [33me2e7be7[m Add GlobalStats model
+* [36m|[m [33mf22a843[m Update eval command
+[36m|[m[36m/[m  
+* [33md3801de[m Update User model
+* [33ma7d8e50[m Update saveGameResult
+* [33mbf2e4ff[m Remove decency calculation
+* [33med48fa0[m Remove decency from GameResult
+* [33m8b8d61c[m Remove stats command
+* [33me90be05[m Remove decency command
+* [33m9b3d0ab[m Update User model
+* [33md986d60[m Implement stats channels
+*   [33mec9e091[m Merge branch 'master' of https://github.com/Phil9424/inmafianew
+[1;31m|[m[1;32m\[m  
+[1;31m|[m * [33mb13fdea[m Update config.js
+* [1;32m|[m [33mb6e73c6[m Update gitignore
+* [1;32m|[m [33m8a2fa1b[m Fix player numbers
+[1;32m|[m[1;32m/[m  
+* [33m2561ae0[m Update vote-test command
+* [33m5b61740[m Update vote command
+* [33m1e9e6b3[m Update vote-test command
+* [33m8a7a073[m Update vote command
+* [33md0131ba[m Fix removeOngoingGame
+* [33m0e82624[m Fix registerOngoingGame
+* [33m7c6d1ca[m Fix getConcurrentGameCount
+* [33m1d9502f[m Update game
+* [33m21b3193[m Add removeOngoingGame
+* [33md93e19d[m Add registerOngoingGame
+* [33mf7493e4[m Update getConcurrentGameCount
+* [33m448e2ff[m Add getConcurrentGameCount
+* [33m37bd2e2[m Update game
+* [33m8d67979[m Fix best move command
+* [33mc698b77[m Add ConcurrentGames model
+*   [33mf6f9c43[m Merge branch 'master' into feature/reaction-voting
+[1;33m|[m[1;34m\[m  
+[1;33m|[m * [33m4b7248a[m Update game
+* [1;34m|[m   [33m7892fad[m Merge branch 'master' into feature/reaction-voting
+[1;35m|[m[1;34m\[m [1;34m\[m  
+[1;35m|[m [1;34m|[m[1;34m/[m  
+[1;35m|[m * [33mee1c9a9[m Move start message to game
+* [1;36m|[m [33m9a3f74c[m Add vote-test command
+* [1;36m|[m   [33m0edaf34[m Merge pull request #2 from Phil9424/master
+[31m|[m[1;36m\[m [1;36m\[m  
+[31m|[m [1;36m|[m[1;36m/[m  
+[31m|[m * [33m032517d[m Fix vote command
+[31m|[m[31m/[m  
+* [33m13a0175[m Implement game numbers
+* [33m3962844[m Update computeTotalGameCount
+* [33m35d6274[m Add GameState#number
+* [33m61454df[m Add computeTotalGameCount
+* [33m4852ca0[m Add resurrect command
+* [33m804beb1[m Fix game.updateNickname
+* [33m0fe1ca9[m Update GameState
+* [33md698724[m Update game
+* [33

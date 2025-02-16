@@ -1,0 +1,32 @@
+{
+  "mir": {
+    "name": "Мирный",
+    "team": "mir",
+    "order": 5,
+    "image": "https://cdn.discordapp.com/attachments/713003678101143573/730479387605991535/728541fb91cd1f20.PNG"
+  },
+  "maf": {
+    "name": "Мафия",
+    "team": "maf",
+    "order": 2,
+    "image": "https://cdn.discordapp.com/attachments/713003678101143573/730479412356579468/13c180312800768f.PNG"
+  },
+  "cop": {
+    "name": "Шериф",
+    "team": "mir",
+    "order": 3,
+    "image": "https://cdn.discordapp.com/attachments/713003678101143573/730479403284561993/f4e9afd0eb215ddc.PNG"
+  },
+  "don": {
+    "name": "Дон мафии",
+    "team": "maf",
+    "order": 1,
+    "image": "https://cdn.discordapp.com/attachments/713003678101143573/730479384552669246/5dddbcef106f8d46.PNG"
+  },
+  "med": {
+    "name": "Доктор",
+    "team": "mir",
+    "order": 4,
+    "image": "https://mirmafii.com/wp-content/uploads/2018/05/Kartochki-dlya-mafii-ot-GMgroup-9.jpg"
+  }
+}

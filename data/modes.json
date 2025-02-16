@@ -1,0 +1,42 @@
+{
+  "classic": {
+    "id": "classic",
+    "name": "Классика",
+    "aliases": ["classic"],
+    "roles": {
+      "maf": 2,
+      "cop": 1,
+      "don": 1
+    }
+  },
+  "tour": {
+    "id": "tour",
+    "name": "Турнир",
+    "aliases": ["tour"],
+    "roles": {
+      "maf": 2,
+      "cop": 1,
+      "don": 1
+    }
+  },
+  "close": {
+    "id": "close",
+    "name": "Закрытая лига",
+    "aliases": ["close"],
+    "roles": {
+      "maf": 2,
+      "cop": 1,
+      "don": 1
+    }
+  },
+  "don": {
+    "id": "don",
+    "name": "Донская",
+    "aliases": ["don"],
+    "roles": {
+      "maf": 0,
+      "cop": 1,
+      "don": 1
+    }
+  }
+}
